@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shuvra Aditya aka Sadi-Hurayv
+- 👋 Hi, I’m Shuvra Aditya aka @Sadi-Hurayv aka @Fury-Panda
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Programming
-- 📫 How to reach me ...
+- 📫 How to reach me? Figure it out!!!
 
 <!---
 Sadi-Hurayv/Sadi-Hurayv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
