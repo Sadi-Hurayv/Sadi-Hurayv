@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sadi-Hurayv
+- 👋 Hi, I’m @Shuvra Aditya aka Sadi-Hurayv
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Programming
